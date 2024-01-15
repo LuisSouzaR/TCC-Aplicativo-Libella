@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Libella",
+    "slug": "Libella",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/img/Logos/logo-azul-qd.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/img/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#6C4CB0"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/img/Logos/logo-azul-qd.png",
+        "backgroundColor": "#6C4CB0"
+      }
+    },
+    "web": {
+      "favicon": "./assets/img/Logos/logo-azul-qd.png"
+    }
+  }
+}
